@@ -1,7 +1,8 @@
 # Abc
 
 This is a simple Angular app which displays an image at the center
- with a title
+ with a title.
+ 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.2.2.
 
 ## Development server
